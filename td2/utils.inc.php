@@ -5,4 +5,4 @@ function start_page($title) {
 function end_page() {
     echo '</body> </html>';
 };
-?><?php
+?>
