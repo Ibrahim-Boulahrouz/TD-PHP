@@ -13,9 +13,12 @@
         <title>TD1</title>
     </head>
     <body>
-        <?php
-        echo '<strong> Voici mon premier programme PHP </strong><br/>'."\n";
-        echo 'C\'est pas mal non ?<br/>';
-        ?>
+    <?php
+    echo '<strong> Voici mon premier programme PHP </strong><br/>' . "\n";
+    echo 'C\'est pas mal non ? <br/>';
+
+    echo "$var1 + $var2";
+    echo $var1 + $var2;
+    echo $var1 + $var3; ?>
     </body>
 </html>
