@@ -1,5 +1,5 @@
 <?php
-include 'mutualisation.php';
+include 'utils.inc.php';
 start_page('Data processing');
 
 $action = $_POST['action'];
