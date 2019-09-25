@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70279c89-bc3b-49b9-a01d-f80d85c6df5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/calcul.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td2/utils.inc.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcul.php" beforeDir="false" afterPath="$PROJECT_DIR$/td1/calcul.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/td1/calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutualisation.php" beforeDir="false" afterPath="$PROJECT_DIR$/td1/mutualisation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/td.php" beforeDir="false" afterPath="$PROJECT_DIR$/td1/td.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +23,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/td.php">
+        <entry file="file://$PROJECT_DIR$/td1/td.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
@@ -29,7 +32,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mutualisation.php">
+        <entry file="file://$PROJECT_DIR$/td1/mutualisation.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
@@ -38,7 +41,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calcul.php">
+        <entry file="file://$PROJECT_DIR$/td1/calcul.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
@@ -46,13 +49,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/calculator.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/td1/calculator.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
               <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/td2/utils.inc.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -67,6 +75,8 @@
         <option value="$PROJECT_DIR$/td.php" />
         <option value="$PROJECT_DIR$/calcul.php" />
         <option value="$PROJECT_DIR$/calculator.php" />
+        <option value="$PROJECT_DIR$/td1/calculator.php" />
+        <option value="$PROJECT_DIR$/td2/utils.inc.php" />
       </list>
     </option>
   </component>
@@ -89,6 +99,11 @@
               <item name="TD-PHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="TD-PHP" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TD-PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TD-PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="td2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -98,6 +113,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/td1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569411832199</updated>
-      <workItem from="1569411835646" duration="2292000" />
+      <workItem from="1569411835646" duration="2826000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1569412402008</created>
@@ -141,7 +161,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2292000" />
+    <option name="totallyTimeSpent" value="2826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="48" width="1400" height="954" extended-state="0" />
@@ -177,33 +197,39 @@
     <option name="LAST_COMMIT_MESSAGE" value="test mutualisation" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/td.php">
+    <entry file="file://$PROJECT_DIR$/td1/td.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mutualisation.php">
+    <entry file="file://$PROJECT_DIR$/td1/mutualisation.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calcul.php">
+    <entry file="file://$PROJECT_DIR$/td1/calcul.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculator.php">
+    <entry file="file://$PROJECT_DIR$/td2/td2file.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/td1/calculator.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/td2/utils.inc.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
