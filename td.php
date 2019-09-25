@@ -20,6 +20,6 @@
     echo "$var1 + $var2";
     echo $var1 + $var2;
     echo $var1 + $var3; ?>
-    test
+    test2
     </body>
 </html>
