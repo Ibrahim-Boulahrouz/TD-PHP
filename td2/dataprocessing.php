@@ -14,7 +14,7 @@ if($action == 'mailer')
     mail('itsneyraa@outlook.fr','Inscription',$message);?>
 
     Votre message a bien été envoyé ! Retour à la page d'accueil
-    <meta http-equiv="refresh" content="5; url=TD2.php">
+    <meta http-equiv="refresh" content="5; url=td2.php">
     <?php
 }
 else {
