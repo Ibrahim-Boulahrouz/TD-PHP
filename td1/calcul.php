@@ -22,4 +22,4 @@ else {
     echo $op1 / $op2;
 }
 end_page();
-?>
+?>1
