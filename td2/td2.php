@@ -3,7 +3,7 @@ include 'utils.inc.php';
 start_page('TD2');
 ?>
 
-    <form action="data-processing.php" method="post">
+    <form action="dataprocessing.php" method="post">
         <label for="identifiant">Identifiant :</label><input id="identifiant" type="text" name="identifiant"><br/>
 
         <label for="civ1">Homme :</label><input id="civ1" type="radio" name="civ" value="Homme"><br/>
