@@ -20,5 +20,6 @@
     echo "$var1 + $var2";
     echo $var1 + $var2;
     echo $var1 + $var3; ?>
+    test
     </body>
 </html>
