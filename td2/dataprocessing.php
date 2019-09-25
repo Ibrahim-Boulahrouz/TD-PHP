@@ -11,7 +11,7 @@ if($action == 'mailer')
     $message = 'Voici vos identifiants d\'inscription :' . $identifiant . '<br/>';
     $message .= 'Email : ' . $email . '<br/>';
     $message .= 'Mot de passe : ' . $mdp . '<br/>';
-    mail('itsneyraa@outlook.fr','Inscription',$message);?>
+    mail('salut@gmail.com','Inscription',$message);?>
 
     Votre message a bien été envoyé ! Retour à la page d'accueil
     <meta http-equiv="refresh" content="5; url=td2.php">
