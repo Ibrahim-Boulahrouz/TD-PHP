@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70279c89-bc3b-49b9-a01d-f80d85c6df5e" name="Default Changelist" comment="TD2 envoi mail">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/td2/td2.php" beforeDir="false" afterPath="$PROJECT_DIR$/td2/td2.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/td2/td2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="360">
+              <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -163,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569411832199</updated>
       <workItem from="1569411835646" duration="6170000" />
-      <workItem from="1569826331858" duration="766000" />
+      <workItem from="1569826331858" duration="926000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1569412402008</created>
@@ -211,16 +210,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6936000" />
+    <option name="totallyTimeSpent" value="7096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="48" width="1400" height="954" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25369823" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25369823" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3292978" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3292978" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -293,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/td2/td2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="360">
+          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
         </state>
       </provider>
     </entry>
