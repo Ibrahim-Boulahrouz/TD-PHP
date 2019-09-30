@@ -24,9 +24,9 @@ start_page('TD2');
             <option value="Algerie">Algerie</option>
             <option value="Allemagne">Allemagne</option>
         </select><br/>
-        <label for="CGU">Acceptez les CGU</label><input id="CGU" type="checkbox" name="CGU"><br/>
+        <label for="CGU">Acceptez les CGU </label><input id="CGU" type="checkbox" name="CGU"><br/>
 
-        <label for="action">Soumettre</label><input id="action" type="submit" name="action" value="mailer"><br/>
+        <label for="action">Soumettre </label><input id="action" type="submit" name="action" value="mailer"><br/>
 
 
     </form>
