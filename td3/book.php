@@ -23,5 +23,3 @@ class Book
     public function showBook() {echo '</br>Titre: ' . $this->title . '</br>Auteur: ' . $this->author . '</br>Editeur: ' . $this->editor . '</br>Nombre de pages: ' . $this->pageNb . '</br>';}
 
 }
-$book = new Book('titre', 'moi', 'moi aussi', '50');
-$book->showBook();
