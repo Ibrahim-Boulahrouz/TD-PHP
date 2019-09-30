@@ -1,6 +1,6 @@
 <?php
-include 'Book.php';
-include 'Library.php';
+include 'book.php';
+include 'library.php';
 $book = new Book('livre1', 'moi', 'moi', '10');
 $book2 = new Book('livre2', 'toi', 'toi', '20');
 $book3 = new Book('livre3', 'lui', 'lui', '30');
