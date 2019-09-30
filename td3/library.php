@@ -1,5 +1,4 @@
 <?php
-include 'book.php';
 
 class library
 {
