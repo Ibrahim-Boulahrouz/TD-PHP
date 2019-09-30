@@ -7,7 +7,7 @@ class library
     private $name;
     private $address;
     private $max;
-    private $TabBooks = array();
+    private $tabBooks = array();
 
     public function __construct($valName, $valAddress, $valMax)
     {
@@ -21,4 +21,27 @@ class library
     public function setAddress($val) { $this->Address = $val;}
     function getMax(){return $this->max;}
     public function setMax($val) { $this->max = $val;}
+
+    public function showAll()
+    {
+        for ($i = 0; $i < sizeof( $this->tabBooks); ++$i)
+        {
+            echo $this->tabBooks->ShowBook();
+        }
+    }
+
+    public function addBook($book)
+    {
+        $this->tabBooks[] = $book;
+    }
+
+    public function delBook($book)
+    {
+        for ($i = 0; $i < sizeof( $this->tabBooks); ++$i)
+        {
+            if($this->tabBooks[$i] == $book)
+
+                unset($this->tabBooks[$i]);
+        }
+    }
 }

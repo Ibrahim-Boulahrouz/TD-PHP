@@ -20,7 +20,7 @@ class Book
     public function setEditor($val) { $this->editor = $val;}
     public function getNb() {return $this->pageNb;}
     public function setNb($val) { $this->pageNb = $val;}
-    public function showBook() {echo 'Titre: ' . $this->title . '</br>Auteur: ' . $this->author . '</br>Editeur: ' . $this->editor . '</br>Nombre de pages: ' . $this->pageNb;}
+    public function showBook() {echo '</br>Titre: ' . $this->title . '</br>Auteur: ' . $this->author . '</br>Editeur: ' . $this->editor . '</br>Nombre de pages: ' . $this->pageNb;}
 
 }
 $book = new Book('titre', 'moi', 'moi aussi', '50');
