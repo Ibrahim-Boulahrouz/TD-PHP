@@ -26,7 +26,7 @@ class library
     {
         for ($i = 0; $i < sizeof( $this->tabBooks); ++$i)
         {
-            echo $this->tabBooks->ShowBook();
+            echo $this->tabBooks[$i]->ShowBook();
         }
     }
 
