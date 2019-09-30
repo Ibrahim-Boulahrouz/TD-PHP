@@ -3,7 +3,7 @@ include 'Start_end.php';
 start_page('base');
 $dbHost = 'mysql-ibrahim-boulahrouz.alwaysdata.net';
 $dbUser = '189617';
-$pwd = 'salutmehackpasstp';
+$pwd = 'yousseflepb';
 $dbName = 'ibrahim-boulahrouz_db';
 $dbLink = mysqli_connect($dbHost, $dbUser, $pwd)
 or die('Erreur de connexion au serveur : ' . mysqli_connect_error());
