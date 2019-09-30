@@ -6,7 +6,7 @@ start_page('TD2');
     <form action="dataprocessing.php" method="post">
         <label for="identifiant">Identifiant :</label><input id="identifiant" type="text" name="identifiant"><br/>
 
-        <label for="civ1">Homme :</label><input id="civ1" type="radio" name="civ" value="Homme" checked><br/>
+        <label for="civ1">Homme :</label><input id="civ1" type="radio" name="civ" value="Homme" checked>
 
         <label for="civ2">Femme :</label><input id="civ2" type="radio" name="civ" value="Femme"><br/>
 
